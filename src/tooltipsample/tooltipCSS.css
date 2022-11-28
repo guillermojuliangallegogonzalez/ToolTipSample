@@ -1,0 +1,10 @@
+/* 
+    Created on : 28 nov 2022, 9:14:26
+    Author     : guillermogallegogonzalez
+*/
+.tooltip {    
+    -fx-background-color: linear-gradient(#FF5733, #E8502F);
+}
+.page-corner {
+    -fx-background-color: linear-gradient(from 0% 0% to 50% 50%,#FFF634,#DDD52B);
+}
